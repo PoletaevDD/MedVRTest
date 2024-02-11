@@ -1,1 +1,1 @@
-# MedVRTest
+Test project for MedVR
